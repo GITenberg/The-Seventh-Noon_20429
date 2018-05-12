@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9294'
     url: http://www.gutenberg.org/2009/agents/9294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20429#The-Seventh-Noon
 gutenberg_issued: '2007-01-24'
 gutenberg_type: Text
 identifiers:
